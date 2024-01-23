@@ -2,7 +2,7 @@
 #### I am MERN Stack Web Developer
 I'm a passionate MERN Stack Web Developer. I am a self-motivated and responsible person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative. I am able to work well under pressure and adhere to strict deadlines. I've been on a continuous learning adventure, exploring new tools and frameworks to enhance my skills.
 
-Skills: HTML / CSS / REACT / JS (ES6) / TAILWINDCSS / DAISY UI / FLOWBITE / NODEJS / MONGODB / EXPRESSJS
+Skills: HTML / CSS / ReactJs / Javascript(ES6) / TailwindCss / Daisy Ui / Flowbite / NodeJs / MongoDb / ExpressJs
 
 - 🔭 I’m currently working on Visionary Tech Solution as Front-End Developer 
 - 🌱 I’m currently learning  NodeJS / MongoDB / ExpressJS 
