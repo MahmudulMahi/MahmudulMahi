@@ -7,6 +7,9 @@ Skills: HTML / CSS / REACT / JS (ES6) / TAILWINDCSS / DAISY UI / FLOWBITE / NODE
 - 🔭 I’m currently working on Visionary Tech Solution as Front-End Developer 
 - 🌱 I’m currently learning  NodeJS / MongoDB / ExpressJS 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahmudulMahi)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudulMahi)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
 </p>
